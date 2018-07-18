@@ -1,0 +1,20 @@
+.screen {
+  width: 141px;
+  height: 20px;
+  margin-bottom: 3px;
+  border-radius: 20px;
+  border: 1px solid #7ebdec;
+  padding: 10px;
+  color: #4d5ca7;
+  outline: none;
+}
+.keyboard input {
+  width: 35px;
+  -webkit-appearance: button;
+  height: 36px;
+  margin: 4px 1px;
+  border-radius: 50%;
+  border: 1px solid #7ebdec;
+  color: #4d5ca7; /*顏色*/
+  outline: none;
+}
